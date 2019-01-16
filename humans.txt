@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> adding rebase conflict for rebase on develop branch
 
 # TECHNOLOGY COLOPHON
 
